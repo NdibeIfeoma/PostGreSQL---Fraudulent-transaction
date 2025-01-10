@@ -1,4 +1,4 @@
-https://thumbs.dreamstime.com/b/d-thief-stolen-credit-card-illustration-white-background-83256716.jpg?w=360
+
 # PostGreSQL---Fraudulent-transaction
 I explored the dataset, analyzing the patterns and characteristics of legitimate and fraudulent transactions in a bank
 
