@@ -1,3 +1,4 @@
+![bank fraud png](https://github.com/user-attachments/assets/945d6da9-2b70-473e-ae7a-c7a88a0118fc)
 
 # PostGreSQL---Fraudulent-transaction
 I explored the dataset, analyzing the patterns and characteristics of legitimate and fraudulent transactions in a bank
